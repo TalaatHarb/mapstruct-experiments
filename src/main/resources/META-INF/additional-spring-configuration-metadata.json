@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "logging.level[net.talaatharb.experiments]",
+    "type": "java.lang.String",
+    "description": "Log level for project"
+  },
+  {
+    "name": "spring.jpa.properties[hibernate.jdbc.batch_size]",
+    "type": "java.lang.String",
+    "description": "batch size for hibernate"
+  }
+]}
